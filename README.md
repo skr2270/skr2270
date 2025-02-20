@@ -6,7 +6,7 @@
 
 ---
 
-### 🌟 About Me
+## 🌟 About Me
 I’m an experienced **Full-Stack Engineer** with over 4 years of expertise in building scalable, secure web applications and systems. My journey in tech has been shaped by hands-on work in fast-paced start-up environments, where I’ve led cross-functional teams, designed robust architectures, and delivered innovative solutions. Currently, I’m freelancing as a **Senior Full-Stack Engineer**, working on exciting projects while enhancing my skills through an **MBA program**.
 
 
@@ -38,10 +38,6 @@ I’m an experienced **Full-Stack Engineer** with over 4 years of expertise in b
  
 ---
 
-### 🔗 **Version Control**  
-Git, GitHub, Bitbucket 
-
----
 
 ### 🔧 **Other Tools & Utilities**    
 - **Geospatial Tools**: Google Earth Pro, CloudCompare  
@@ -57,17 +53,17 @@ Git, GitHub, Bitbucket
 
 ---
 
-### 🚀 Current Project
+## 🚀 Current Project
 - **Gig Jobs India Portal**: Developing Web Application. Developing microservices for a web and mobile platform, and scaling with Docker and Kubernetes.
 
 ---
 
-### 🎯 Career Goals
+## 🎯 Career Goals
 With a passion for technology and a growing interest in business strategy through my MBA studies, I am constantly looking for opportunities to merge technical leadership with strategic decision-making. My goal is to drive innovation in cutting-edge tech solutions while leading dynamic teams.
 
 ---
 
-### 📈 Let's Connect
+## 📈 Let's Connect
 - LinkedIn: [Sai Kumar Rayavarapu](https://www.linkedin.com/in/sai-kumar-rayavarapu-167a6a2b0)  
 - GitHub: [GitHub Profile](https://github.com/skr2270)  
 - Email: sk.r.2270@gmail.com
