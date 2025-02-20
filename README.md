@@ -13,22 +13,14 @@ I’m an experienced **Full-Stack Engineer** with over 4 years of expertise in b
 
 ### 💻 **Technologies**  
 - **Backend Development**: Nest.js, Node.js, PHP, TypeScript, Python  
-- **Frontend Development**: React.jsx, Next.js, Tailwind CSS, HTML5, jQuery, Ajax, Bootstrap
+- **Frontend Development**: React.js, Next.js, Tailwind CSS, HTML5, jQuery, Ajax, Bootstrap
+- **API Development**: GraphQL, RESTful APIs, Swagger
 - **System Application Development**: Electron.js
 - **Databases**: PostgreSQL, MongoDB, MySQL, Redis
-- **API Documentation**: Swagger
-- **3rd Party Integration**: Razorpay, Easebuzz, MSG91
+- **3rd Party Integration**: Razorpay, Easebuzz, MSG91, Firebase
 - **Architectural Patterns**: Atomic Design Methodology,  Microservices, Monorepo Architecture, Modular Design
-- **Version Controls & Respositories**: Git, GitHub, BitBucket
-- **Other Technologies**: IoT Devices(BLE, ESP32/8266, Arduino Uno, MQTT, Raspeberry Pi), Network-Attached Storage (NAS), Network Video Recorders (NVR), NeuroStation, Wordpress, WooCommerce
-
----
-
-### 🔒 **Cybersecurity**  
-- **Penetration Testing**: Vulnerability Assessment, Penetration Testing (VAPT), Security Auditing, Network Infrastructure Security  
-- **Digital Forensics**: Data Extraction from Damaged HDDs, Log Analysis
-- **Tools**: Nessus, Wireshark, Nmap, Advanced IP Scanner, OWASP ZAP, Burp Suite
-- **Operating Systems**: Windows, Linux(Kali and Ubuntu)
+- **Version Controls & Repositories**: Git, GitHub, BitBucket
+- **Other Technologies**: IoT Devices(BLE, ESP32/8266, Arduino Uno, MQTT, Raspberry Pi), Network-Attached Storage (NAS), Network Video Recorders (NVR), NeuroStation, WordPress, WooCommerce
 
 ---
 
@@ -53,8 +45,19 @@ I’m an experienced **Full-Stack Engineer** with over 4 years of expertise in b
 
 ---
 
+
+### 🔒 **Cybersecurity**  
+- **Penetration Testing**: Vulnerability Assessment, Penetration Testing (VAPT), Security Auditing, Network Infrastructure Security  
+- **Digital Forensics**: Data Extraction from Damaged HDDs, Log Analysis
+- **Tools**: Nessus, Wireshark, Nmap, Advanced IP Scanner, OWASP ZAP, Burp Suite
+- **Operating Systems**: Windows, Linux(Kali and Ubuntu)
+
+---
+
+
+
 ## 🚀 Current Project
-- **Gig Jobs India Portal**: Developing Web Application. Developing microservices for a web and mobile platform, and scaling with Docker and Kubernetes.
+- **Gig Jobs India Portal**: Leading the development of Web Application and Microservices for a web and mobile platform, and scaling with Docker and Kubernetes.
 
 ---
 
@@ -70,4 +73,4 @@ With a passion for technology and a growing interest in business strategy throug
 
 ---
 
-🌟 Always learning, always coding, and always eager to contribute to open-source projects!
+🌟 Always learning, always coding, and always eager to contribute to open-source projects. Feel free to contact me for freelance opportunities!
