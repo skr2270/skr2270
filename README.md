@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Sai Kumar Rayavarapu!
 
-🎓 **Full-Stack Engineer** | 🔐 **Cybersecurity Enthusiast** | 📚 **Pursuing MBA**  | 💻 **Freelancer**
+🎓 **Full-Stack Engineer** | 🔐 **Cybersecurity Enthusiast** | 📚 **Pursuing MBA**  | 💻 **Freelancer**   
+
 🚀 Freelancing as a **Senior Full-Stack Engineer** at a start-up while pursuing my MBA, combining technical expertise with business acumen.
 
 ---
