@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-kumar-rayavarapu-167a6a2b0)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skr2270)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sk.r.2270@gmail.com)
-[![Portfolio / Projects](https://img.shields.io/badge/Architecture-Portfolio-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white)](#-flagship-projects)
+[![Portfolio / Projects](https://img.shields.io/badge/Architecture-Portfolio-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white)](#-flagship-architectural-projects)
 
 **Lead Full-Stack Architect & Founding Engineer**  
 Specializing in Distributed Microservices, Domain-Driven GraphQL Platforms, Headless Mobile Commerce, Document Intelligence & Cloud Systems.
@@ -58,7 +58,7 @@ I am a **Lead Full-Stack Architect and Founding Engineer** with over 5 years of 
 
 #### 6. [Code My Resume (CMR)](https://github.com/skr2270/CodeMyResume)
 *Automated Codebase Scanner, ATS Resume & Profile Generator*
-- **Architecture:** Scan-first developer intelligence CLI (`src/cmr/`) that discovers all `*.md` files, detects structural topology (microservices vs. modular monolith), parses infra/git telemetry, and compiles a Single-Source `ResumeAST` into PDF, HTML, Markdown, and GitHub READMEs.
+- **Architecture:** Scan-first developer intelligence CLI (`src/cmr/`) that discovers all `*.md` files, detects structural topology (microservices vs. modular monolith), parses infra/git telemetry, and compiles a Single-Source `ResumeAST` into PDF, HTML, Markdown, GitHub READMEs, and LinkedIn Packs.
 
 #### 7. [UWA 3D Experience](https://github.com/skr2270)
 *Immersive Scroll-Driven WebGL 3D Cinematic Journey*
@@ -100,10 +100,10 @@ I am a **Lead Full-Stack Architect and Founding Engineer** with over 5 years of 
 
 - **Master of Science (M.S.) in Computer Science**  
   *Scaler Neovarsity / Woolf* (Licensed European Higher Education Institution, accredited by MFHEA / ECTS)  
-  *Duration:* 2024 – Present (Expected: 2026 / 2027)  
+  *Expected Completion:* 2026 / 2027  
   *Specialization: Advanced Distributed Systems, Scalable Cloud Architecture, Machine Learning, System Design*
 - **Bachelor of Technology (B.Tech) in Computer Science & Engineering**  
-  *Viswanadha Institute of Technology and Management (JNTUK)* | August 2015 – April 2022
+  *Viswanadha Institute of Technology and Management (JNTUK)* | Graduated: April 2022
 
 ---
 
